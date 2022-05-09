@@ -45,6 +45,10 @@ public abstract class AggregateRoot {
                     ));
         } catch (Exception e){
             logger.log(Level.SEVERE,"Error applying event to aggregate", e);
+        } finally {
+            if (isNewEvent){
+                changes.add(event);
+            }
         }
     }
 
