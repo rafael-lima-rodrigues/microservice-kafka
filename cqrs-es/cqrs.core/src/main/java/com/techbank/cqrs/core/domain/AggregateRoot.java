@@ -3,7 +3,6 @@ package com.techbank.cqrs.core.domain;
 import com.techbank.cqrs.core.events.BaseEvent;
 import lombok.Getter;
 import lombok.Setter;
-import org.springframework.stereotype.Service;
 
 import java.text.MessageFormat;
 import java.util.ArrayList;
