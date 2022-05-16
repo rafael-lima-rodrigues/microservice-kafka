@@ -4,6 +4,6 @@ import com.techbank.cqrs.core.commands.BaseCommand;
 import lombok.Data;
 
 @Data
-public class WithdrawnFundsCommand extends BaseCommand {
+public class WithdrawFundsCommand extends BaseCommand {
     private double amount;
 }
