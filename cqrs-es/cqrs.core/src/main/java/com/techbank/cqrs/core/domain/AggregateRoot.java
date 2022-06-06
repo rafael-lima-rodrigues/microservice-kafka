@@ -17,7 +17,7 @@ public abstract class AggregateRoot {
 
     @Getter
     @Setter
-    private int version = 1;
+    private int version = -1;
 
     private final List<BaseEvent> changes = new ArrayList<>();
     private final Logger logger = Logger.getLogger(AggregateRoot.class.getName());
