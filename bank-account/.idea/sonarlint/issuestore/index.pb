@@ -31,15 +31,9 @@ z
 Jaccount.cmd/src/main/java/com/techbank/account/cmd/CommandApplication.java,0\a\0ad25e0fdb5eb87278e40e3d718b4806f6dfd19e
 è
 _account.cmd/src/main/java/com/techbank/account/cmd/infrastructure/AccountCommandDispatcher.java,c\e\cee72f9422c3dc167dd11ebe4eafebcabb60766c
-ä
-Zaccount.cmd/src/main/java/com/techbank/account/cmd/api/commands/AccountCommandHandler.java,5\6\5657146913eae959204c83938d440d472f533205
 C
 account.cmd/pom.xml,d\3\d31d7eb5b1936ddf43678faacc33aea6f80e5014
 ç
 ]account.cmd/src/main/java/com/techbank/account/cmd/api/controller/DepositFundsController.java,0\d\0d3071a09013bac4e6c9a25617a543c9316727be
-å
-\account.cmd/src/main/java/com/techbank/account/cmd/api/controller/OpenAccountController.java,0\f\0fdca4bc2781e5fff0e3c8798e6121d717775aa5
-~
-Naccount.common/src/main/java/com/techbank/account/common/dto/BaseResponse.java,d\2\d2481a8385374e79c38d7ad4ae50de5941f13e82
 É
 Saccount.cmd/src/main/java/com/techbank/account/cmd/api/dto/OpenAccountResponse.java,b\3\b31dbbdcf6dcf6dac808695c36176bcfd70dc431
