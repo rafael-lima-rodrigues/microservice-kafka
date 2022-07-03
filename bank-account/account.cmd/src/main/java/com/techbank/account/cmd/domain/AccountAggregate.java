@@ -13,6 +13,7 @@ import java.util.Date;
 
 @NoArgsConstructor
 public class AccountAggregate extends AggregateRoot {
+    @Getter
     private Boolean active;
 
     @Getter

@@ -1,4 +1,4 @@
-package com.techbank.account.cmd.api.controller;
+package com.techbank.account.cmd.api.controllers;
 
 import com.techbank.account.cmd.api.commands.OpenAccountCommand;
 import com.techbank.account.cmd.api.dto.OpenAccountResponse;

@@ -7,4 +7,6 @@ import java.util.List;
 public interface EventStore {
     void savedEvents(String aggregateId, Iterable<BaseEvent> events, int expectedVersion);
     List<BaseEvent> getEvents(String aggregateId);
+
+    List<String> getAggregateIds();
 }
